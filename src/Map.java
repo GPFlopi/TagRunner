@@ -551,4 +551,3 @@ public class Map {
 
     //</editor-fold>
 }
-//TODO figure out why assignNeighbours is slow
