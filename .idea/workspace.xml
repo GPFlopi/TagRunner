@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d1e3268-82c1-4565-84d6-d5b569e5c9ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TagRunner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Levels/Level1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Levels/Level2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Goal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Hunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapTiles/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\gpflo\OneDrive\Desktop\report" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DUZ6G0z0glFBYwKA12Jqe2Veda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/gpflo/OneDrive/Desktop/report",
+    "nodejs.jest.jest_package": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "profiler.jvm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="TagRunner" />
+      <option name="PROGRAM_PARAMETERS" value="-g" />
+      <option name="VM_PARAMETERS" value="-agentpath:&quot;C:\Windows\system32\agent\lightrun_agent.dll&quot; " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1e3268-82c1-4565-84d6-d5b569e5c9ad" name="Changes" comment="" />
+      <created>1660755448908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660755448908</updated>
+      <workItem from="1660755451041" duration="6804000" />
+      <workItem from="1660764910384" duration="7449000" />
+      <workItem from="1660892052545" duration="4532000" />
+      <workItem from="1660904576407" duration="7381000" />
+      <workItem from="1660930443425" duration="4871000" />
+      <workItem from="1661072203632" duration="14206000" />
+      <workItem from="1661331321975" duration="4045000" />
+      <workItem from="1661430837883" duration="4484000" />
+      <workItem from="1661505590329" duration="13465000" />
+      <workItem from="1662207293759" duration="442000" />
+      <workItem from="1662207757910" duration="1497000" />
+      <workItem from="1662209293432" duration="8945000" />
+      <workItem from="1662296510449" duration="7397000" />
+      <workItem from="1662308852023" duration="475000" />
+      <workItem from="1662385624334" duration="615000" />
+      <workItem from="1662386265853" duration="2676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="curr" />
+        <watch expression="((Map)this).Omap.get(8)" custom="Map" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TagRunner$Run.ic" NAME="Run Coverage Results" MODIFIED="1662386880355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
